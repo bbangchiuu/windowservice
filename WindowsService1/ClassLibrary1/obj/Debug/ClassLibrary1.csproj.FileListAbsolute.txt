@@ -1,0 +1,5 @@
+E:\test\WindowsService1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\test\WindowsService1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\test\WindowsService1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\test\WindowsService1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\test\WindowsService1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

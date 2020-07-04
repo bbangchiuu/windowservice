@@ -1,0 +1,14 @@
+E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+E:\test\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+E:\test\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+E:\test\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+E:\test\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+E:\test\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+E:\test\WindowsService1\WindowsService1\bin\Debug\ClassLibrary1.dll
+E:\test\WindowsService1\WindowsService1\bin\Debug\Quartz.dll
+E:\test\WindowsService1\WindowsService1\bin\Debug\ClassLibrary1.pdb
+E:\test\WindowsService1\WindowsService1\bin\Debug\Quartz.pdb
+E:\test\WindowsService1\WindowsService1\bin\Debug\Quartz.xml
+E:\test\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete

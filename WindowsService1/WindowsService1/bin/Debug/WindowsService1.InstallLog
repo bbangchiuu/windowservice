@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = E:\test\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe

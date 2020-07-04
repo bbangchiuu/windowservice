@@ -1,0 +1,15 @@
+E:\test\WindowsService1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\WindowsService1.exe
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\Quartz.dll
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\WindowsService1.pdb
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\WindowsService1.exe.config
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\Quartz.pdb
+E:\test\WindowsService1\ConsoleApp1\bin\Debug\Quartz.xml
+E:\test\WindowsService1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\test\WindowsService1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\test\WindowsService1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
